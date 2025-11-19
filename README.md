@@ -1,2 +1,2 @@
-# cs50x
-This is the database of every my assignment from cs50x
+# cs
+This is where I store many projects of my journey into cs.
